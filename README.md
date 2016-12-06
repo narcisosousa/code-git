@@ -1,13 +1,24 @@
 # code-git
 
+<p align="center">
+<ul>
 Criado diretório git com
-git init
+<li>git init</li>
+</ul>
+<ul>
 Criado arquivo README.md
-vim README.md
+<li>vim README.md</li>
+</ul>
+<ul>
 Realizando commit do arquivo
-git commit -a -m "Adicionado arquivo README.md"
+<li>git commit -a -m "Adicionado arquivo README.md"</li>
+</ul>
+<ul>
 Adicionando url do repositório do github
-git remote add origin https://github.com/narcisosousa/code-git.git
+<li>git remote add origin https://github.com/narcisosousa/code-git.git</li>
+</ul>
+<ul>
 Enviando projeto para o repositorio do github
-git push -u origin master
-# code-git
+<li>git push -u origin master</li>
+</ul>
+</p>
